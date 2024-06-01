@@ -1,4 +1,4 @@
-Our graph matching process implementation submited to SafeComp 2024.
+Our graph matching process implementation submited to Scisec 2024.
 ##
 
 The implementation notebook is the colab notebook
